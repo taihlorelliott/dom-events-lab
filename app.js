@@ -52,6 +52,21 @@ const calculate = () => {
         return;
     }
 
+    //swtich operator format from chat gbt 
+  //   switch (expression) {
+  //     case value1:
+  //         // Code to execute if expression matches value1
+  //         break;
+  //     case value2:
+  //         // Code to execute if expression matches value2
+  //         break;
+  //     // You can add more cases as needed
+  //     default:
+  //         // Code to execute if none of the cases match
+  //         break;
+  // }
+  
+
     currentInput = String(result);
     // they have to display a string 
     previousInput = '';
